@@ -82,4 +82,28 @@ This is the syscall to show data on the screen.
 
 ![sys_exit image 1](images/sys_exit_1.png)
 
+### Math Operations
+
+Math operations are used to mathematically manipulate registers.
+
+The form of a math is like this:
+
+OPERATION REGISTER, VALUE/REGISTER
+
+The first register is the subject of the operation.
+
+Example:
+
+```
+add rax, 5
+sub rbx, rax
+
+```
+
+#### Math Operations List
+
+![Math operations table](images/math_operations-table.png)
+
+
+
 
