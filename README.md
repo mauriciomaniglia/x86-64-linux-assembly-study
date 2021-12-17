@@ -105,5 +105,7 @@ sub rbx, rax
 ![Math operations table](images/math_operations-table.png)
 
 
+### Stack Operations
 
+![Stack operations table](images/stack_operations_table.png)
 
