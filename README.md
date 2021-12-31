@@ -62,7 +62,7 @@ A system call, or a syscall, is when a program requests a service from the kerne
 
 System calls will differ by operating system because differente operating systems use different kernels.
 
-All syscalls have a ID associated the them. They also take arguments, which is a list o inputs.
+All syscalls have a ID associated with them. They also take arguments, which is a list o inputs.
 
 ![System calls inputs by register](images/system_call_iputs_registers.png)
 
